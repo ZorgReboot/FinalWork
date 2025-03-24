@@ -11,9 +11,13 @@ int main()
 	//создание и вывод массива
 
 	int A[20];
+<<<<<<< HEAD
 	int count = -10;
 	int m1 = 0;
 	int m2 = 0;
+=======
+	int count = -10, m01 = 0, m2 = 0;
+>>>>>>> 4a9f7c2bb1347cd1498850fd4d3636b46cbc22b1
 
 	printf("Массив: ");
 	for (int i = 0; i < 20; i++) {
